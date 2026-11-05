@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-projects-vue-inertia",
+  "capabilityKey": "liberusoftware/music-projects",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-music-projects-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/music/nextjs/projects.md",
+  "presentationPlan": "projects/music/vue/projects.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
